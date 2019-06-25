@@ -1,0 +1,16 @@
+{
+    "actions": [
+        {
+            "name": "START_LOADING_INDICATORS",
+            "hasPayload": false
+        },
+        {
+            "name": "FINISH_LOADING_INDICATORS",
+            "hasPayload": true
+        }
+    ],
+    "options": {
+        "rootReducerNeed": true,
+        "dirName": "network-waiting"
+    }
+}
